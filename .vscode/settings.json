@@ -1,0 +1,6 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "/Users/gomadoufu/ghq/github.com/gomadoufu/rust-in-action/basic/grep-lite/Cargo.toml",
+    "/Users/gomadoufu/ghq/github.com/gomadoufu/rust-in-action/basic/ok/Cargo.toml"
+  ]
+}
