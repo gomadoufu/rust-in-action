@@ -1,3 +1,0 @@
-(function() {var implementors = {
-"implementing_display":[["impl Freeze for <a class=\"enum\" href=\"implementing_display/enum.FileState.html\" title=\"enum implementing_display::FileState\">FileState</a>",1,["implementing_display::FileState"]],["impl Freeze for <a class=\"struct\" href=\"implementing_display/struct.File.html\" title=\"struct implementing_display::File\">File</a>",1,["implementing_display::File"]]]
-};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
